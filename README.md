@@ -1,7 +1,5 @@
 # Severstal: Steel Defect Detection
 
-![header](README/header.jpg)
-
 Code for Kaggle [Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection), 96th place solution (Top4%).
 
 ## Requirements
@@ -41,11 +39,13 @@ The followings are some visualizations of our results. There are two parts in th
 
 **Example 1:**
 
-![1571987747986](README/1571987747986.png)
+<img width="1591" height="666" alt="1571987747986" src="https://github.com/user-attachments/assets/e4f005f1-90b4-43ec-80ad-3f0832dd2835" />
+
 
 **Example2:**
 
-![1571987755468](README/1571987755468.png)
+<img width="1599" height="655" alt="1571987755468" src="https://github.com/user-attachments/assets/4e3f0005-b8dd-4924-b738-851b9d4da1e4" />
+
 
 ## How to run
 
