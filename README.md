@@ -49,13 +49,6 @@ The followings are some visualizations of our results. There are two parts in th
 
 ## How to run
 
-### Clone Our Project
-
-```bash
-git clone https://github.com/zdaiot/Kaggle-Steel-Defect-Detection.git
-cd Kaggle-Steel-Defect-Detection
-```
-
 ### Prepare Dataset
 
 Download steel datasets from [here](https://www.kaggle.com/c/severstal-steel-defect-detection/data) , unzip and put them into `../Input` directory.  
