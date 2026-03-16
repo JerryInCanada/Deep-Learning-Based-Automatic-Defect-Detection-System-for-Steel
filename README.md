@@ -255,18 +255,3 @@ When run `SUBMISSION=/path/to/csv/file.csv make release-csv`, If you encounter t
 "dataset_sources": ["YOUR_KAGGLE_USERNAME_HERE/severstal_csv_submission"],
 
 **Please notice that:** Any submission made with this tool will score zero on the final private LB. The point of the tool is to make it easy to quickly submit CSVs created locally for the public test set and get a public LB score.
-
-## TODO
-
-- [x] finish classify + segment model
-- [x] finish create_submission.py 
-- [x] finish demo.py
-- [x] finish loss.py
-- [x] finish choose_threshold
-- [x] finish data augmentation
-- [x] EfficientB4( w/ ASPP)
-- [x] code review(validation dice, threshold dice)
-- [x] train segmentation model only on masked datasets
-- [x] choose fold
-- [x] TTA
-- [x] ensemble
